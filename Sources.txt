@@ -1,0 +1,7 @@
+Sources:
+
+https://docs.docker.com/engine/swarm/swarm-tutorial/#install-docker-engine-on-linux-machines
+https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/
+https://hub.docker.com/r/itzg/minecraft-server/
+https://hub.docker.com/r/laynal/docker-gmod
+https://github.com/Gonzih/docker-csgo-server
