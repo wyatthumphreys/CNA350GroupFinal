@@ -2,10 +2,10 @@
 ## Use Docker to host Garry's Mod and Minecraft servers
 ## A Project by Ian and Wyatt
 
-##Intro
+## Intro
 After working tirelessly on Kubernetes, it was decided as a group to approach this project using Docker Swarm instead of Kubernetes. These Docker containers host Minecraft and Garry's Mod servers for access locally or over the internet.
 
-##Why We Switched
+## Why We Switched
 Here is a short list of problems we encountered using Kubernetes:
 
 In MiniKube:
